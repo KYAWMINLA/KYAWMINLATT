@@ -5,19 +5,19 @@
 
 
 {
-         "name": "Config-Version 1.1",
+         "name": "Config-Version 1.2",
          "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
       }
 ,
 {
          "name": "TH-True-Dtac01",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
+         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/SG-TRUE-DTAC-01.ovpn"
       }
 ,
 
 {
          "name": "TH-True-Dtac02",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
+         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/SG-TRUE-DTAC-01.ovpn"
       }
 ,
 {
@@ -64,10 +64,10 @@
 
    ],
 "message":"
-🔵DTAC NOPRO
-🔴TRUE NOPRO
-📤ဖိုင်တင်ရက် 28/12/2022
+DTAC NOPRO
+TRUE NOPRO
+ဖိုင်တင်ရက် 28/12/2022
 \n\nFb: Kyaw Min Latt",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":1
+   "version":2
 }
