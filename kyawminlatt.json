@@ -3,71 +3,96 @@
 
 
 
-
 {
-         "name": "Config-Version 1.3",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
+         "name": "TH-VIP-DTAC-GAMES01",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
       }
 ,
 {
-         "name": "TH-True-Dtac01",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/kkkkk.ovpn"
-      }
-,
-
-{
-         "name": "TH-True-Dtac02",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/SG-TRUE-DTAC-01.ovpn"
+         "name": "TH-VIP-DTAC-GAMES02",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC01.ovpn"
       }
 ,
 {
-         "name": "TH-True-Dtac03",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
+         "name": "TH-VIP-DTAC-GAMES03",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE0-NET03.ovpn"
       }
 ,
 {
-         "name": "TH-True-Dtac04",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
+         "name": "TH-VIP-DTAC-GAMES04",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
 ,
 {
-         "name": "TH-True-Dtac05",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
+         "name": "TH-VIP-DTAC-GAMES05",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/5.ovpn"
+      }   
+,
+{
+         "name": "TH-VIP-DTAC-GAMES-NET06",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
+      }         
+,
+{
+         "name": "TH-VIP-DTAC-GAMES07",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
+      }   
+ ,
+{
+         "name": "TH-VIP-DTAC-GAMES08",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/SG-VIP-DTAC888.ovpn"
+      }            
+,
+{
+         "name": "TH-VIP-True-GAMES01",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
       }
 ,
 {
-         "name": "SG-True-Dtac01",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
+         "name": "TH-VIP-True-GAMES02",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC01.ovpn"
       }
 ,
 {
-         "name": "SG-True-Dtac02",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
-      }
+         "name": "TH-VIP-True-GAMES03",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE0-NET03.ovpn"
+      }   
 ,
 {
-         "name": "SG-True-Dtac03",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
+         "name": "TH-VIP-True-GAMES04",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
-,
+,      
 {
-         "name": "SG-True-Dtac04",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
-      }
-      ,
-      {
-         "name": "SG-True-Dtac05",
-         "url": "https://raw.githubusercontent.com/KYAWMINLA/KYAWMINLATT/main/%E1%80%80%E1%80%AF%E1%80%94%E1%80%BA%E1%80%9B%E1%80%80%E1%80%BA%E1%80%99%E1%80%9E%E1%80%AD44.ovpn"
-      }
-
-
-
+         "name": "TH-VIP-True-GAMES05",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/5.ovpn"
+      }   
+ ,      
+ {
+         "name": "TH-VIP-True-GAMES-NET06",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
+      }    
+ ,
+{
+         "name": "TH-VIP-True-GAMES07",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
+      }             
+ ,
+{
+         "name": "TH-VIP-True-GAMES08",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/SG-VIP-DTAC888.ovpn"
+      }        
+      
+      
+     
    ],
 "message":"
-DTAC NOPRO
-TRUE NOPRO
-ဖိုင်တင်ရက် 28/12/2022
-\n\nFb: Kyaw Min Latt",
+နွေထွေးစွာကြိုဆိုပါ၏
+KSO VIPဝန်ဆောင်မှု
+အသုံးပြုရနိုင်သော ဆင်းကဒ်များ
+ထူးမူ …ဒီတက် များဖြစ်ပါတယ်
+🤩🤩တစ်လ💰50ဘတ်ပါ
+\n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
    "version":3
 }
